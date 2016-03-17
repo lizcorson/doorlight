@@ -17,4 +17,4 @@ To be added in the future:
 FastLED https://github.com/FastLED/FastLED
 
 ## Photo
-![alt tag](https://github.com/lizcorson/heartratejewelry/blob/master/photos/mar16.jpg)
+![alt tag](https://github.com/lizcorson/doorlight/blob/master/photos/mar16.jpg)
