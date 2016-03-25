@@ -9,7 +9,7 @@ I've soldered everything together and it all works! Now to make the case.
 - LED strip http://www.aliexpress.com/item/1m-4m-5m-WS2812B-Smart-led-pixel-strip-Black-White-PCB-30-60-144-leds-m/32483042485.html
 - Magnetic Door Switch https://www.sparkfun.com/products/13247[[
 - 1000 μF capacitor
-- 470 Ω resistor
+- 330 Ω resistor
 - DC power jack https://www.sparkfun.com/products/10785
 - 5V 2A power supply https://www.sparkfun.com/products/12889
 - Circuit board http://smile.amazon.com/gp/product/B00PKVSQX2?
