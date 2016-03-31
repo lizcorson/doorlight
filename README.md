@@ -22,7 +22,7 @@ Complete!
 
 1. Upload the doorlight sketch to your Arduino-compatible board.
 2. Solder the circuit shown in the circuit diagram.
-3. Make a case. I laser cut mine from acrylic. The laser cutter plans are in the caseplans folder.
+3. Make a case. I laser cut mine from acrylic. The laser cutter plans are in the case folder.
 4. Attach the command cord clips above your door.
 5. Position everything as appropriate for your door and your wiring.
 6. Mount the control box case to the wall with command strips.
