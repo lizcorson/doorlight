@@ -7,7 +7,7 @@ Complete!
 ## Parts Used
 - Pro Mini clone http://www.aliexpress.com/item/Pro-Mini-Module-Atmega328-5V-16M-For-Arduino-Compatible-With-Nano/2021666535.html
 - LED strip http://www.aliexpress.com/item/1m-4m-5m-WS2812B-Smart-led-pixel-strip-Black-White-PCB-30-60-144-leds-m/32483042485.html
-- Magnetic Door Switch https://www.sparkfun.com/products/13247[[
+- Magnetic Door Switch https://www.sparkfun.com/products/13247
 - 1000 μF capacitor
 - 330 Ω resistor
 - DC power jack https://www.sparkfun.com/products/10785
